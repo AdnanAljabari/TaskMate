@@ -1,0 +1,11 @@
+C:\Users\ADNAN\Desktop\rust_projects\task_mate\target\debug\deps\libbitflags-8b2a18f6a7609cd0.rmeta: C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs
+
+C:\Users\ADNAN\Desktop\rust_projects\task_mate\target\debug\deps\bitflags-8b2a18f6a7609cd0.d: C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs
+
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs:

@@ -1,0 +1,11 @@
+C:\Users\ADNAN\Desktop\rust_projects\task_mate\target\debug\deps\libdigest-2eb4d39026610f1f.rmeta: C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\lib.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\ct_variable.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\rt_variable.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\wrapper.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\xof_reader.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\digest.rs
+
+C:\Users\ADNAN\Desktop\rust_projects\task_mate\target\debug\deps\digest-2eb4d39026610f1f.d: C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\lib.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\ct_variable.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\rt_variable.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\wrapper.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\xof_reader.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\digest.rs
+
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\lib.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\ct_variable.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\rt_variable.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\wrapper.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\core_api\xof_reader.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.10.7\src\digest.rs:

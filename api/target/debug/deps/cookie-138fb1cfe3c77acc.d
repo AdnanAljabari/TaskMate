@@ -1,0 +1,11 @@
+C:\Users\ADNAN\Desktop\rust_projects\task_mate\target\debug\deps\libcookie-138fb1cfe3c77acc.rmeta: C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\lib.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\builder.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\parse.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\jar.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\delta.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\draft.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\expiration.rs
+
+C:\Users\ADNAN\Desktop\rust_projects\task_mate\target\debug\deps\cookie-138fb1cfe3c77acc.d: C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\lib.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\builder.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\parse.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\jar.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\delta.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\draft.rs C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\expiration.rs
+
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\lib.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\builder.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\parse.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\jar.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\delta.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\draft.rs:
+C:\Users\ADNAN\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\expiration.rs:
